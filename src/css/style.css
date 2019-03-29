@@ -1,0 +1,25 @@
+/* .mapSymbol{
+    font-size: 24px;
+    color: rgb(33,37,41);
+    align-self: flex-end !important;
+} */
+.textFlow {
+    margin-right : 15rem !important;
+    margin-left: 20rem !important;
+    /* margin-bottom: 15rem !important; */
+} 
+.titleContainer {
+    display: flex;
+    flex-direction: row;
+    /* width: 10rem !important; */
+    
+}
+.imgMap{
+    height: 3rem !important;
+}
+.searchPlace {
+    font-size : 1.5rem !important;
+    margin-top: -0.7rem !important; 
+    
+
+}
